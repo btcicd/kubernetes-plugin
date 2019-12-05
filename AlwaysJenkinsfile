@@ -1,4 +1,4 @@
-podTemplate(podRetention: 'always()', yaml: """
+podTemplate(podRetention: always(), yaml: """
 apiVersion: v1
 kind: Pod
 metadata:
